@@ -1763,15 +1763,15 @@ body {
   color: #cccccc;
 }
 .cid-qI2fV4zdL9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-qI2fV4zdL9 .card-img {
   background-color: #fff;
 }
 .cid-qI2fV4zdL9 .card-box {
-  background-color: #ffffff;
+  background-color: #4f4943;
   padding: 2rem;
 }
 .cid-qI2fV4zdL9 h4 {
@@ -1800,4 +1800,7 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qI2fV4zdL9 .card-title {
+  color: #e4d295;
 }
