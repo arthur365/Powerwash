@@ -1807,10 +1807,10 @@ body {
 .cid-qI2xekeN3G {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #f9f9f9;
+  background-color: #4f4943;
 }
 .cid-qI2xekeN3G .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
   font-weight: 300;
 }
 .cid-qI2xekeN3G .media-container-row {
@@ -1893,4 +1893,7 @@ body {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+}
+.cid-qI2xekeN3G .mbr-section-title {
+  color: #cebfaf;
 }
