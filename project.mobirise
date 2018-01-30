@@ -39,7 +39,9 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "3941b69b263d07cab34eee242b02b5a102ce9743",
+    "siteUrl": "undefined"
   },
   "pages": {
     "httpsarthur365.github.ioPowerwash.html": {
