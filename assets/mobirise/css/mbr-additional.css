@@ -1811,7 +1811,10 @@ body {
   }
 }
 .cid-qI2fV4zdL9 .card-title {
-  color: #e4d295;
+  color: #ffffff;
+}
+.cid-qI2fV4zdL9 .card-title B {
+  color: #ffffff;
 }
 .cid-qIjCUxReuT {
   padding-top: 30px;
@@ -1833,6 +1836,9 @@ body {
   .cid-qIjCUxReuT .mbr-text {
     text-align: center;
   }
+}
+.cid-qIjCUxReuT H1 {
+  color: #e4d295;
 }
 .cid-qI2xekeN3G {
   padding-top: 30px;
