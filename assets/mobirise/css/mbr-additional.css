@@ -1763,7 +1763,7 @@ body {
 }
 .cid-qI28M7Yzt6 {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
 }
 .cid-qI28M7Yzt6 H2 {
   color: #cebfaf;
@@ -2173,6 +2173,11 @@ body {
   -webkit-flex-direction: column;
   flex-direction: column-reverse;
   -webkit-flex-direction: column-reverse;
+}
+.cid-qIpzkWbLDr {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/6168a6a07655-1-1000x292.jpg");
 }
 .cid-qI3cqopDjE .navbar {
   padding: .5rem 0;
