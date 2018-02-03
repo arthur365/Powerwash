@@ -44,7 +44,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Smartsupp Live Chat script -->\r\n<script type=\"text/javascript\">\r\nvar _smartsupp = _smartsupp || {};\r\n_smartsupp.key = '3941b69b263d07cab34eee242b02b5a102ce9743';\r\nwindow.smartsupp||(function(d) {\r\n  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];\r\n  s=d.getElementsByTagName('script')[0];c=d.createElement('script');\r\n  c.type='text/javascript';c.charset='utf-8';c.async=true;\r\n  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);\r\n})(document);\r\n</script>",
     "siteUrl": "undefined"
   },
   "pages": {
@@ -996,7 +996,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Services",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1516,7 +1516,7 @@
       "settings": {
         "meta_descr": "contact us",
         "title": "Contact Us",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
