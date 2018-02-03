@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Power Wash Servicers",
-    "currentPage": "httpsarthur365.github.ioPowerwash.html",
+    "currentPage": "httpsarthur365.github.ioPowerwashpage1.html.github.ioPowerwashpage1.html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Smartsupp Live Chat script -->\r\n<script type=\"text/javascript\">\r\nvar _smartsupp = _smartsupp || {};\r\n_smartsupp.key = '3941b69b263d07cab34eee242b02b5a102ce9743';\r\nwindow.smartsupp||(function(d) {\r\n  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];\r\n  s=d.getElementsByTagName('script')[0];c=d.createElement('script');\r\n  c.type='text/javascript';c.charset='utf-8';c.async=true;\r\n  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);\r\n})(document);\r\n</script>",
+    "google-analytics": "<!-- Smartsupp Live Chat script -->\r\n<script type=\"text/javascript\">\r\nvar _smartsupp = _smartsupp || {};\r\n_smartsupp.key = '3941b69b263d07cab34eee242b02b5a102ce9743';\r\nwindow.smartsupp||(function(d) {\r\n  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];\r\n  s=d.getElementsByTagName('script')[0];c=d.createElement('script');\r\n  c.type='text/javascript';c.charset='utf-8';c.async=true;\r\n  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);\r\n})(document);\r\n</script>\r\n\r\n<script type=\"text/javascript\">\r\n    window.smartlook||(function(d) {\r\n    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];\r\n    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';\r\n    c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);\r\n    })(document);\r\n    smartlook('init', '46c9b7fdb74cc78f0fc426b3a09755e1dded6102');\r\n</script>",
     "siteUrl": "undefined"
   },
   "pages": {
