@@ -44,7 +44,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=67530581;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script>\r\n\r\n<!--Add the following script at the bottom of the web page (before </body></html>)-->\r\n<script type=\"text/javascript\">function add_chatwidget(){var hccid=67530581&WidgetStartPos=middleleft;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://www.mylivechat.com/chatwidget.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatwidget();</script>\r\n\r\n",
+    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=67530581;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script>\r\n\r\n </body></html>)-->\r\n<script type=\"text/javascript\">function add_chatwidget(){var hccid=67530581&WidgetStartPos=middleleft;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://www.mylivechat.com/chatwidget.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatwidget();</script>\r\n\r\n",
     "siteUrl": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
