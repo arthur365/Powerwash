@@ -3096,7 +3096,7 @@
             },
             "P": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#7f1933"
             }
           },
           "_name": "slider2",
@@ -3153,20 +3153,21 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/thw9os2eqm-736x489.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose f",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "If you are looking for a high quality patio or driveway, or perhaps want some garden paving performe Jay's Block Pavers are the team to Choose and trust. \n<br>\n<br>whith a five years' guarantee on every job we do. Join us on Facebook&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/kjh-1024x768.jpg",
@@ -3177,12 +3178,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose f",
+                "text": "All Driveways, Drains and brick work Undertaken No Job to Big or Small whith a five years' guarantee on every job we do,",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -3194,12 +3195,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose f",
+                "text": "All Driveways, Drains and brick work Undertaken No Job to Big or Small whith a five years' guarantee on every job we do,",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -3211,29 +3212,29 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose f",
+                "text": "Choose from",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/imagesaritvyri-285x177.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose f",
+                "text": "<p>Choose &nbsp;&nbsp; &nbsp; Us</p>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2"
               }
