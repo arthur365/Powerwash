@@ -914,7 +914,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -932,7 +932,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bloggif-5a79b6db8e8cc-1024x572.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -946,7 +946,7 @@
                 "contentAlign": "center",
                 "text": "<p>Choose &nbsp;&nbsp; &nbsp; Us</p>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0"
               }
             ]
           }
