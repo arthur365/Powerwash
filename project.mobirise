@@ -7,7 +7,7 @@
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#149dcc",
-        "secondaryColor": "#ff3366",
+        "secondaryColor": "#ff7f9f",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
@@ -24,8 +24,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#1c231b",
@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2135,12 +2135,12 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "socialFacebook": true,
-            "postsNumber": "20",
+            "postsNumber": 5,
             "socialGoogle": false,
             "socialDisqus": false,
             "shortName": "",
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#55b4d4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/patios-1110x515.png",
             "overlay": false,
@@ -2155,7 +2155,7 @@
             "Extension"
           ],
           "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-13"
+          "_anchor": "facebook-comments-block-14"
         },
         {
           "_styles": {
