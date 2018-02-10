@@ -2145,9 +2145,9 @@
             "bgColorRadio": false,
             "bgColor": "#55b4d4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/driveways-1110x515.png",
-            "overlay": false,
-            "overlayColor": "#7e9b9f",
+            "bgImage": "@PROJECT_PATH@/assets/images/kjh-1024x768.jpg",
+            "overlay": true,
+            "overlayColor": "#1c231b",
             "overlayOpacity": 0.6
           },
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
