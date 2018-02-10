@@ -2895,7 +2895,7 @@ body {
   background-color: #fff;
 }
 .cid-qI2fV4zdL9 .card-box {
-  background-color: #786959;
+  background-color: #efcba5;
   padding: 2rem;
 }
 .cid-qI2fV4zdL9 h4 {
@@ -2926,11 +2926,14 @@ body {
   }
 }
 .cid-qI2fV4zdL9 .card-title {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 .cid-qI2fV4zdL9 .card-title B {
-  color: #ffffff;
+  color: #000000;
+}
+.cid-qI2fV4zdL9 .card-title DIV {
+  color: #df4a1b;
 }
 .cid-qIjCUxReuT {
   padding-top: 30px;
