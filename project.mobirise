@@ -2145,10 +2145,10 @@
             "bgColorRadio": false,
             "bgColor": "#55b4d4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/kjh-1024x768.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/thw9os2eqm-736x489.jpg",
             "overlay": true,
             "overlayColor": "#1c231b",
-            "overlayOpacity": 0.6
+            "overlayOpacity": "0"
           },
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
