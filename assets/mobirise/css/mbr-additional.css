@@ -2888,8 +2888,8 @@ body {
 .cid-qIjCUxReuT {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #000000;
-  background: linear-gradient(45deg, #000000, #000000);
+  background-color: #cebfaf;
+  background: linear-gradient(45deg, #cebfaf, #000000);
 }
 @media (min-width: 992px) {
   .cid-qIjCUxReuT .mbr-figure {
@@ -3110,6 +3110,7 @@ body {
 }
 .cid-qJIXdBMahD H4 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-qJIXdBMahD H5 {
   color: #ffffff;
