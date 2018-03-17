@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Jays Power Wash Services",
+    "name": "Jays Power Wash Services-clone",
     "currentPage": "home.github.ioPowerwash.html",
     "theme": {
       "name": "mobirise4",
@@ -39,7 +39,7 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 45,
-    "versionPublish": "4.6.3",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1769,47 +1769,6 @@
           "_anchor": "form3-i",
           "_isUserblock": true,
           "_cid": "qI75xqDrXb",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            ".google-map": {
-              "height": "25rem",
-              "position": "relative",
-              "iframe": {
-                "height": "100%",
-                "width": "100%"
-              },
-              "[data-state-details]": {
-                "color": "#6b6763",
-                "font-family": "Montserrat",
-                "height": "1.5em",
-                "margin-top": "-0.75em",
-                "padding-left": "1.25rem",
-                "padding-right": "1.25rem",
-                "position": "absolute",
-                "text-align": "center",
-                "top": "50%",
-                "width": "100%"
-              },
-              "&[data-state]": {
-                "background": "#e9e5dc"
-              },
-              "&[data-state=\"loading\"]": {
-                "[data-state-details]": {
-                  "display": "none"
-                },
-                "&::after": {}
-              }
-            }
-          },
-          "_name": "map1",
-          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJ4YA8WLHEekgRYwR29_XBuMU\" value=\"Deeside Flintshire\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
-          "_cid": "qIkjgpAA3W",
-          "_anchor": "map1-n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
