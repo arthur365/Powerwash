@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Jays Power Wash Services-clone",
+    "name": "Jays Power Wash Services",
     "currentPage": "home.github.ioPowerwash.html",
     "theme": {
       "name": "mobirise4",
@@ -44,7 +44,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=67530581;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script>\r\n\r\n<!--Add the following script at the bottom of the web page (before </body></html>)-->\r\n<script type=\"text/javascript\">function add_chatwidget(){var hccid=67530581&WidgetStartPos=topleft&WidgetPosition=topleft;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://www.mylivechat.com/chatwidget.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatwidget();</script>",
+    "google-analytics": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\r\n<script type=\"text/javascript\">function add_chatinline(){var hccid=81859701;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline();</script>",
     "siteUrl": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
@@ -1769,6 +1769,47 @@
           "_anchor": "form3-i",
           "_isUserblock": true,
           "_cid": "qI75xqDrXb",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            ".google-map": {
+              "height": "25rem",
+              "position": "relative",
+              "iframe": {
+                "height": "100%",
+                "width": "100%"
+              },
+              "[data-state-details]": {
+                "color": "#6b6763",
+                "font-family": "Montserrat",
+                "height": "1.5em",
+                "margin-top": "-0.75em",
+                "padding-left": "1.25rem",
+                "padding-right": "1.25rem",
+                "position": "absolute",
+                "text-align": "center",
+                "top": "50%",
+                "width": "100%"
+              },
+              "&[data-state]": {
+                "background": "#e9e5dc"
+              },
+              "&[data-state=\"loading\"]": {
+                "[data-state-details]": {
+                  "display": "none"
+                },
+                "&::after": {}
+              }
+            }
+          },
+          "_name": "map1",
+          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJ4YA8WLHEekgRYwR29_XBuMU\" value=\"Deeside Flintshire\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_cid": "qIkjgpAA3W",
+          "_anchor": "map1-n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
