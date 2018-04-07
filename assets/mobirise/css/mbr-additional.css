@@ -1779,14 +1779,20 @@ body {
 .cid-qILOwM80FA {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #cccccc;
+  background-color: #1c0f02;
 }
 .cid-qILOwM80FA .mbr-section-subtitle {
-  color: #000000;
+  color: #efefef;
   text-align: left;
 }
 .cid-qILOwM80FA .mbr-section-subtitle DIV {
-  color: #000000;
+  color: #efefef;
+}
+.cid-qILOwM80FA H2 {
+  color: #e4d295;
+}
+.cid-qILOwM80FA .mbr-section-subtitle B {
+  color: #e4d295;
 }
 .cid-qI274V4YIu .navbar {
   padding: .5rem 0;
