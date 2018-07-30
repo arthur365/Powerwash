@@ -528,7 +528,7 @@
         {
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "socialFacebook": true,
             "postsNumber": 5,
             "socialGoogle": false,
