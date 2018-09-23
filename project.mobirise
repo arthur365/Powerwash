@@ -1608,13 +1608,13 @@
               }
             },
             ".card-title": {
-              "color": "#0a0a0a"
+              "color": "#ffffff"
             },
             ".mbr-text B": {
               "color": "#000000"
             },
             ".card-title B": {
-              "color": "#0a0a0a"
+              "color": "#efefef"
             }
           },
           "_name": "features3",
