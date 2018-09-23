@@ -165,8 +165,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff7f9f !important;
-  border-color: #ff7f9f !important;
+  background-color: #ff3366 !important;
+  border-color: #ff3366 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -174,14 +174,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #ff3266 !important;
-  border-color: #ff3266 !important;
+  background-color: #e50039 !important;
+  border-color: #e50039 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #ff3266 !important;
-  border-color: #ff3266 !important;
+  background-color: #e50039 !important;
+  border-color: #e50039 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -329,22 +329,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #ff1952;
-  color: #ff1952;
+  border-color: #cc0033;
+  color: #cc0033;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff7f9f;
-  border-color: #ff7f9f;
+  background-color: #ff3366;
+  border-color: #ff3366;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff7f9f !important;
-  border-color: #ff7f9f !important;
+  background-color: #ff3366 !important;
+  border-color: #ff3366 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -464,7 +464,7 @@ body {
   color: #0f7699 !important;
 }
 .text-secondary {
-  color: #ff7f9f !important;
+  color: #ff3366 !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -490,7 +490,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #ff1952 !important;
+  color: #cc0033 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -2293,11 +2293,11 @@ body {
 .cid-qNSvEREgJv {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qNSvEREgJv .line {
-  background-color: #82786e;
-  color: #82786e;
+  background-color: #55b4d4;
+  color: #55b4d4;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -2315,6 +2315,9 @@ body {
 }
 .cid-qNSvEREgJv .section-text DIV {
   color: #000000;
+}
+.cid-qNSvEREgJv .section-text B {
+  color: #251303;
 }
 .cid-qI274V4YIu .navbar {
   padding: .5rem 0;
