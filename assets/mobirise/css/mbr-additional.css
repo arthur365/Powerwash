@@ -2292,12 +2292,12 @@ body {
 }
 .cid-qI274V4YIu .navbar {
   padding: .5rem 0;
-  background: #564534;
+  background: #55b4d4;
   transition: none;
   min-height: 77px;
 }
 .cid-qI274V4YIu .navbar-dropdown.bg-color.transparent.opened {
-  background: #564534;
+  background: #55b4d4;
 }
 .cid-qI274V4YIu a {
   font-style: normal;
@@ -2381,7 +2381,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qI274V4YIu .dropdown .dropdown-menu {
-  background: #564534;
+  background: #55b4d4;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2677,12 +2677,12 @@ body {
 }
 .cid-qI274V4YIu .nav-link:hover,
 .cid-qI274V4YIu .dropdown-item:hover {
-  color: #efcba5 !important;
+  color: #b2ccd2 !important;
 }
 .cid-qI28M7Yzt6 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/wall.gif");
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
 }
 .cid-qI28M7Yzt6 H2 {
   color: #df4a1b;
@@ -2697,10 +2697,59 @@ body {
 .cid-qI28M7Yzt6 .mbr-text {
   color: #e4d295;
 }
+.cid-qI28M7Yzt6 .mbr-text B {
+  color: #ffffff;
+}
+.cid-qNGi5vYuHE {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qNGi5vYuHE .card-box {
+  padding: 0 2rem;
+}
+.cid-qNGi5vYuHE .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qNGi5vYuHE .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qNGi5vYuHE h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-qNGi5vYuHE p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qNGi5vYuHE .mbr-text {
+  color: #251303;
+}
+.cid-qNGi5vYuHE .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #149dcc;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qNGi5vYuHE .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qNGi5vYuHE .card-title {
+  color: #efefef;
+}
+.cid-qNGi5vYuHE .mbr-text B {
+  color: #000000;
+}
 .cid-r0B4wthP64 {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #1c1004;
+  background-color: #55b4d4;
 }
 .cid-r0B4wthP64 .content-slider {
   display: flex;
@@ -2973,13 +3022,19 @@ body {
   width: 87%;
 }
 .cid-r0B4wthP64 B {
-  color: #160c03;
+  color: #669e0d;
+}
+.cid-r0B4wthP64 P {
+  text-align: center;
+}
+.cid-r0B4wthP64 H2 {
+  color: #d6140a;
 }
 .cid-qIjCUxReuT {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
-  background: linear-gradient(45deg, #000000, #564534);
+  background-color: #55b4d4;
+  background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
 .cid-qIjCUxReuT .media-container-row {
   flex-direction: row-reverse;
@@ -3004,53 +3059,10 @@ body {
 .cid-qIjCUxReuT H1 {
   color: #e4d295;
 }
-.cid-qNGi5vYuHE {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #231b13;
-}
-.cid-qNGi5vYuHE .card-box {
-  padding: 0 2rem;
-}
-.cid-qNGi5vYuHE .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-qNGi5vYuHE .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-qNGi5vYuHE h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-qNGi5vYuHE p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-qNGi5vYuHE .mbr-text {
-  color: #251303;
-}
-.cid-qNGi5vYuHE .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qNGi5vYuHE .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-qNGi5vYuHE .card-title {
-  color: #251303;
-}
 .cid-qNSvEREgJv {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cebfaf;
+  background-color: #ffffff;
 }
 .cid-qNSvEREgJv .line {
   background-color: #82786e;
@@ -3073,7 +3085,7 @@ body {
 .cid-qNHgSplDuP {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #1c0f02;
+  background-color: #55b4d4;
 }
 .cid-qNHgSplDuP .mbr-iconfont {
   font-size: 48px;
