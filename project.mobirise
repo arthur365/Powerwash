@@ -1386,7 +1386,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/images-340x148.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1403,7 +1403,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
