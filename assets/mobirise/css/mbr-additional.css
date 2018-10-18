@@ -2292,7 +2292,7 @@ body {
 }
 .cid-r6P5gfPHn0 {
   padding-top: 105px;
-  padding-bottom: 45px;
+  padding-bottom: 60px;
   background-color: #c1c1c1;
 }
 .cid-r6P5gfPHn0 .content-slider {
@@ -2566,9 +2566,10 @@ body {
   width: 60%;
 }
 .cid-r6P6FoNv7S {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 60px;
-  background: #06546e;
+  background: #231b13;
+  background: linear-gradient(45deg, #231b13, #149dcc);
 }
 .cid-r6P6FoNv7S .image-block {
   margin: auto;
