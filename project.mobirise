@@ -1377,7 +1377,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/call-a-j-power-washing-465x650.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
