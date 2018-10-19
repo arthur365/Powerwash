@@ -2566,13 +2566,12 @@ body {
   width: 57%;
 }
 .cid-r6P6FoNv7S {
-  padding-top: 45px;
-  padding-bottom: 60px;
   background: #0900af;
   background: linear-gradient(45deg, #0900af, #0900af);
 }
 .cid-r6P6FoNv7S .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-r6P6FoNv7S figcaption {
   position: relative;
