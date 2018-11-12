@@ -2292,8 +2292,8 @@ body {
 }
 .cid-r6P5gfPHn0 {
   padding-top: 120px;
-  padding-bottom: 60px;
-  background-color: #251e9f;
+  padding-bottom: 15px;
+  background-color: #0f7699;
 }
 .cid-r6P5gfPHn0 .content-slider {
   display: flex;
@@ -2550,7 +2550,7 @@ body {
   background: transparent !important;
 }
 .cid-r6P5gfPHn0 .image_wrapper {
-  height: 490px;
+  height: 380px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -2563,7 +2563,7 @@ body {
   text-align: center;
 }
 .cid-r6P5gfPHn0 .content-slider-wrap {
-  width: 72%;
+  width: 50%;
 }
 .cid-qNSvEREgJv {
   padding-top: 15px;
