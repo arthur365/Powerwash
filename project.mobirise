@@ -3186,7 +3186,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "0",
             "socialFacebook": true,
             "postsNumber": "20",
             "socialGoogle": false,
@@ -3196,7 +3196,7 @@
             "bgColor": "#fff",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.6
           },
