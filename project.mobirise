@@ -3097,7 +3097,7 @@
                 "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-7",
