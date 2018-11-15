@@ -3219,6 +3219,23 @@ body {
 .cid-qNYf7Pmuv6 H2 {
   color: #ffffff;
 }
+.cid-r9t9ukTCUz {
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+.cid-r9t9ukTCUz .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r9t9ukTCUz H2 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-r9t9ukTCUz H3 {
+  text-align: left;
+}
+.cid-r9t9ukTCUz B {
+  color: #fff323;
+}
 .cid-qI274V4YIu .navbar {
   padding: .5rem 0;
   background: #55b4d4;
@@ -3609,7 +3626,7 @@ body {
   color: #b2ccd2 !important;
 }
 .cid-qNYeLqjjeg {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #4f4943;
 }
