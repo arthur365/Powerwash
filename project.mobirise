@@ -3038,7 +3038,11 @@
               "width": "(@sliderWSize * 1%)"
             },
             "H2": {
-              "text-align": "left"
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#f9f295"
             }
           },
           "_name": "slider2",
@@ -3070,9 +3074,9 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "FULL SCREEN SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "more.",
+                "text": "A J Blocking Repairs Liverpool 2018&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -3094,7 +3098,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20171020-170508-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3104,6 +3108,40 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "A J PICS",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171020-170557-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-7",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "A J PICS",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171023-183813-2000x1500.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-7",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "A J PICS All Done",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "more.",
