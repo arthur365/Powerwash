@@ -1348,7 +1348,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/driveways-liverpool-963x430.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1358,14 +1358,14 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "A J BLOCK PAVING<br>&nbsp;",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://arthur365.github.io/Powerwash/contact%20jay.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/clks422-1024x683.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
