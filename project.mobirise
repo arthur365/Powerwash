@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A J  Power Wash Services Deeside",
-    "currentPage": "home.github.ioPowerwash.html",
+    "currentPage": "About Us.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 87,
+    "uniqCompNum": 88,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -55,7 +55,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "About Us",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -516,7 +516,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">A J Power Washing Servicers and much more<br>Block Pavers, &nbsp;&amp; All Ground work And New Building work undertaken. &nbsp;<br>Call Arthur Mobile :<br> 0756-1 23-1161<br>All Property repairs carred out.<br>storm damage welcome.&nbsp;</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"><b>Top quality paving from experienced pavers:</b><div>\n</div><div>If you are looking for a high quality patio or driveway, or perhaps want some garden paving performe or a wall building A J Block Pavers are the team to call.\n</div><div>\n</div><div>Expert providers of paving for a wide range of applications,Please view below.</div><div><br></div><div>We work hard to deliver the best possible work every time, offering free inspections, free estimates whith a five years' guarantee on every job we do. A J<span style=\"font-size: 1rem;\">&nbsp;Block Pavers can provide assistance with:</span></div>All work carried out to the highest standards by fully qualified, highly experienced tradesmen.<br><br><div>\n</div><div>\n</div><div>• All forms of block paving.</div><div> \n</div><div>• Flagging and concreting.</div><div>• Renovation and replacement of driveways.</div><div>• Creating and replacing patios.</div><div>• Full range of garden paving service.</div><div><b>. </b>All roofing work carried out.</div><b>. </b>All brick work under taken<br><b>. </b>All new builds welcome big or small<br><div><br></div><div><b><br></b></div><br><div><b>A J &nbsp;Block Pavers provide paving for a wide range of clients, including:\n</b></div><div>\n</div><div><span style=\"font-size: 1rem;\">We can offer:&nbsp;</span><br></div><div>All major brands of paving and building work, so' whether you have any particular requests or have no idea what sort of style of paving you would like to see used, A J  Block Pavers can assist you.&nbsp;</div><br><div>• Home owners,</div><div>• Restaurants,</div><div>• Shops,</div><div>• Pubs,</div><div>• Private gardens,</div><div>• Council work undertaken,</div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">A J Power Washing Servicers and much more<br>Block Pavers, &nbsp;&amp; All Ground work And New Building work undertaken. &nbsp;<br>Call Arthur Mobile :<br> 0756-1 23-1161<br><br>All Property repairs carred out.<br>storm damage welcome.&nbsp;</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"><b><br>we are a small family building firm&nbsp;\n</b><div><b>specialising in.</b></div><br><div>• All forms of block paving.\n</div><div>• Flagging and concreting.\n</div><div>• Renovation and replacement of driveways.\n</div><div>• Creating and replacing patios.\n</div><div>• Full range of garden paving service.\n</div><div>. All roofing work carried out.\n</div><div>. All brick work under taken\n</div><div>. All new builds welcome big or small\n</div><div><br></div><div><br><b>Top quality paving from experienced pavers:</b><div>\n</div><div>If you are looking for a high quality patio or driveway, or perhaps want some garden paving performe or a wall building A J Block Pavers are the team to call.\n</div><div>\n</div><div>Expert providers of paving for a wide range of applications,Please view below.</div><div><br></div><div>We work hard to deliver the best possible work every time, offering free inspections, free estimates whith a five years' guarantee on every job we do. A J<span style=\"font-size: 1rem;\">&nbsp;Block Pavers can provide assistance with:</span></div>All work carried out to the highest standards by fully qualified, highly experienced tradesmen.<br><br><div>\n</div><div>\n</div><div><br></div><div><b>A J &nbsp;Block Pavers provide paving for a wide range of clients, including:\n</b></div><div>\n</div><div><span style=\"font-size: 1rem;\">• Home owners,\n</span></div></div><div><span style=\"font-size: 1rem;\">• Restaurants,\n</span></div><div><span style=\"font-size: 1rem;\">• Shops,\n</span></div><div><span style=\"font-size: 1rem;\">• Pubs,\n</span></div><div><span style=\"font-size: 1rem;\">• Private gardens,\n</span></div><div><span style=\"font-size: 1rem;\">• Council work undertaken,</span></div><br><div><div><span style=\"font-size: 1rem;\">We can offer:&nbsp;</span><br></div><div>All major brands of paving and building work, so' whether you have any particular requests or have no idea what sort of style of paving you would like to see used, A J  Block Pavers can assist you..&nbsp;</div><div>,</div></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content4-z",
           "_isUserblock": true,
           "_cid": "qILOwM80FA",
@@ -623,7 +623,7 @@
       "settings": {
         "meta_descr": "A J POWER WASHING SERVICES",
         "title": "Contact A J ",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1863,7 +1863,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Work Portfolio",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2592,7 +2592,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "MERRY CHRISTMAS&nbsp;",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
