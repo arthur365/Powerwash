@@ -1360,7 +1360,7 @@
                 "active": true,
                 "showButtons": false,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": true,
                 "videoUrl": "",
                 "customStyle1": "display-1",
