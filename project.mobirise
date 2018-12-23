@@ -1320,6 +1320,13 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "H2": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
             }
           },
           "_name": "slider1",
@@ -1357,8 +1364,8 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://arthur365.github.io/Powerwash/contact%20jay.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/gid-263x192.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/clks422-1024x683.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1367,7 +1374,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Grids to fit any patio if needed",
+                "title": "<br><br><br><br><br><br><br>Grids to fit any patio if needed",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest &nbsp;blocks -Paving stones.",
@@ -1375,7 +1382,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1916x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,

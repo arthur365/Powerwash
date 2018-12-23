@@ -2527,6 +2527,13 @@ body {
 .cid-rd4MUs24zX .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rd4MUs24zX H2 {
+  color: #000000;
+}
+.cid-rd4MUs24zX P {
+  color: #000000;
+  text-align: right;
+}
 .cid-qNSvEREgJv {
   padding-top: 15px;
   padding-bottom: 15px;
