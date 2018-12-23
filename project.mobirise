@@ -1322,10 +1322,10 @@
               "z-index": "auto"
             },
             "H2": {
-              "color": "#000000"
+              "color": "#55b4d4"
             },
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "text-align": "right"
             }
           },
