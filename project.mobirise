@@ -1386,7 +1386,7 @@
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=oDm2K2DqCZU",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
