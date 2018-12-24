@@ -1383,7 +1383,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1916x1080.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
@@ -1395,7 +1395,7 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://arthur365.github.io/Powerwash/contact%20jay.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US FREE ESTIMATE</a> ",
                 "overlayOpacity": "0.1"
               }
             ]
