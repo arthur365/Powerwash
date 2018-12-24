@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A J  Power Wash Services Deeside",
-    "currentPage": "page4.html",
+    "currentPage": "home.github.ioPowerwash.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1384,10 +1384,10 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-1916x1080.jpg",
                 "active": true,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "",
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=oDm2K2DqCZU",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
