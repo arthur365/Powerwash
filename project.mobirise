@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A J  Power Wash Services Deeside",
-    "currentPage": "About Us.html",
+    "currentPage": "home.github.ioPowerwash.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 95,
+    "uniqCompNum": 98,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1520,123 +1520,6 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><i>Our team have extensive experience in all aspects of building and block paving ,brick work and roofing work-full roof or repairs.\n</i><div><i><font color=\"#232323\"><i>We also have a &nbsp;power washing cleaning services 350 Bar 4000 psi on hand if needed.&nbsp;<a href=\"https://arthur365.github.io/Powerwash/page4.html\"><br></a></i></font></i><br><i><a href=\"https://arthur365.github.io/Powerwash/page4.html\">Click here Merry Christmas to all our customers</a><br></i><br><i>NORTH WEST<b>//</b></i><b>&nbsp;A J&nbsp;<a href=\"#top\">PROPERTY CLEANERS</a>.</b>&nbsp;<br>LET US WHIRL-AWAY THE GRIME AND DIRT FROM YOUR PROPERTY.<br>Dirt, grime, mold and mildew can and will cause building materials to rot and decay, forcing you to make costly replacements or repairs. Regularly having your property exterior cleaned by a professional cleaning contractor will drastically reduce these costly repairs. Please call  A J Power Wash Servicers . A Firm you can trust to get the job done.\n<div>\n</div><div>We are always happy to discuss contract cleaning if that is what you're looking for.</div><br><b>Building Cleaning Domestic, Commercial, Restaurant,</b><br><b>Driveways cleaned by us.\n</b><div><font color=\"#232323\"><b>Single  Drive //£50.00 //Double Drive //£95.00\n</b></font></div><div><span style=\"color: rgb(35, 35, 35); font-size: 1rem;\">Call Arthur John on mobile <b>0756-123-1161</b> or email ajpowerwashers@gmail.com</span></div></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qNSvEREgJv",
           "_anchor": "content9-1a",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ff3366"
-            },
-            ".formoid": {
-              "margin": "auto"
-            },
-            ".form-control": {
-              "padding-left": "1.5rem",
-              "padding-right": "1.5rem"
-            },
-            "a.btn": {
-              "flex": "0 0 auto",
-              "-webkit-flex": "0 0 auto"
-            },
-            ".input-group-btn": {
-              "align-self": "center",
-              "-webkit-align-self": "center",
-              "z-index": "3",
-              ".btn": {
-                "padding-top": "1rem",
-                "padding-bottom": "1rem",
-                "border-top-right-radius": "3px",
-                "border-bottom-right-radius": "3px"
-              }
-            },
-            "a:not([href]):not([tabindex])": {
-              "color": "#fff"
-            },
-            "a.btn-white:not([href]):not([tabindex])": {
-              "color": "#333"
-            },
-            ".mbr-subscribe .input-group-btn": {
-              "display": "inline-block",
-              "button, a": {
-                "margin-top": "0 !important",
-                "margin-bottom": "0 !important"
-              }
-            },
-            "@media (max-width: 350px)": {
-              ".mbr-subscribe": {
-                "flex-direction": "column",
-                "-webkit-flex-direction": "column"
-              },
-              "input[type=\"email\"]": {
-                "width": "100%",
-                "margin-bottom": "2px"
-              },
-              ".input-group-btn": {
-                "width": "100%",
-                ".btn": {
-                  "border-radius": "3px"
-                }
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".input-group-btn a.btn": {
-                "width": "100%"
-              },
-              ".input-group-btn": {
-                "width": "calc(100% - 8px)",
-                "& button[type=\"submit\"]": {
-                  "width": "100%"
-                }
-              },
-              ".input-group": {
-                "display": "flex",
-                "flex-direction": "column",
-                "flex-wrap": "wrap",
-                "margin": "auto",
-                "max-width": "300px",
-                "input[type=\"email\"]": {
-                  "width": "100%",
-                  "margin-bottom": "3px"
-                },
-                "span": {
-                  "display": "inline",
-                  "padding-left": "0",
-                  "padding-right": "0"
-                }
-              },
-              ".input-group-btn button, .input-group-btn a": {
-                "margin-left": "0 !important",
-                "margin-right": "0 !important"
-              }
-            },
-            "@media (min-width: 769px)": {
-              ".mbr-subscribe > *": {
-                "margin": "0 0.5rem"
-              }
-            },
-            ".mbr-section-subtitle B": {
-              "color": "#ffffff"
-            },
-            "H2": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "form3",
-          "_customHTML": "<section class=\"mbr-section form3\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@assets/images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=4BcjE6Wb8mo\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-2 mbr-fonts-style\" mbr-theme-style=\"display-4\">A J PROPERTY REPAIRS SUBSCRIBE FORM</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center pb-5 mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\"><b>Please Subscribe to our Newsletter</b></h3>\n            </div>\n        </div>\n\n        <div class=\"row py-2 justify-content-center\">\n            <div mbr-form class=\"col-12 col-lg-6  col-md-8 \">\n                <div data-form-alert hidden>Thank you for your contact We will contact you back soon.</div>\n                <form class=\"mbr-form\" action=\"cross-a@hotmail.co.uk\" method=\"post\" name=\"Mobirise Form\">\n                    <div class=\"mbr-subscribe input-group\">\n                        <input class=\"form-control\" type=\"email\" name=\"email\" placeholder=\"Email\" data-form-field=\"Email\" required>\n                        <span mbr-buttons mbr-theme-style=\"display-4\" class=\"input-group-btn\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a href type=\"submit\" class=\"btn  btn-secondary\">SUBSCRIBE</a></span>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "form3-2l",
-          "_isUserblock": true,
-          "_cid": "rd9WCVuYvK",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
