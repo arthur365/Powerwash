@@ -2420,8 +2420,8 @@ body {
 
 .cid-rvEYoRglOE {
 @fullScreen: false;
-@paddingTop: 6;
-@paddingBottom: 3;
+@paddingTop: 5;
+@paddingBottom: 4;
 @showTitle: true;
 @showSubTitle: false;
 @showText: false;
@@ -2435,7 +2435,7 @@ body {
 @bg-parallax: true;
 @overlay: true;
 @overlayColor: #4f4943;
-@overlayOpacity: 0.6;
+@overlayOpacity: 0.3;
 
 & when not (@fullScreen) {
   padding-top: (@paddingTop * 15px);
@@ -2555,7 +2555,7 @@ background-color: @bgColor;
 @paddingBottom: 2;
 @showTitle: true;
 @showText: false;
-@showButtons: false;
+@showButtons: true;
 @cardsBg: #149dcc;
 @cardsAmount: "3";
 @uname__10: "../../app/themes/mobirise4/components/features3/../_images/background2.jpg";
@@ -2634,17 +2634,40 @@ p {
 }
 }
 
-.cid-rvFbUCPFyq {
-@paddingTop: 4;
-@paddingBottom: 4;
-@widthContent: 2;
-@bgColor: #ffffff;
+.cid-qNSvEREgJv {
+@paddingTop: 1;
+@paddingBottom: 1;
+@innerWidth: 100;
+@lineLength: 100;
+@lineColor: #55b4d4;
+@bgColor: #efefef;
 
 padding-top: (@paddingTop * 15px);
 padding-bottom: (@paddingBottom * 15px);
 background-color: @bgColor;
-.mbr-text, blockquote {
-  color: #767676;
+.line {
+  background-color: @lineColor;
+  color: @lineColor;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.section-text {
+  padding: 2rem 0;
+}
+.inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .inner-container {
+    width: 100% !important;
+  }
+}
+.section-text DIV {
+  color: #000000;
+}
+.section-text B {
+  color: #073b4c;
 }
 }
 
@@ -3090,92 +3113,12 @@ nav.opened .hamburger span {
 }
 }
 
-.cid-rvEhE07G0v {
-
-padding-top: (@paddingTop * 15px);
-padding-bottom: (@paddingBottom * 15px);
-background-color: @bgColor;
-.mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: @overlayColor;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  & when (@gradOverlay) {
-    background: linear-gradient(to left, @overlayColor, @overlayColor2) !important;
-  }
-}
-.mbr-gallery-item > div:hover {
-  .mbr-gallery-title::before {
-    background: transparent !important;
-  }
-  &:before {
-    opacity: @overlayOpacity !important;
-  }
-}
-.mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-  &:before {
-    content: " ";
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    position: absolute;
-    background: @overlayColor !important;
-    opacity: @overlayOpacity;
-    -webkit-transition: 0.2s background ease-in-out;
-    transition: 0.2s background ease-in-out;
-    & when (@gradOverlay) {
-      background: linear-gradient(to left, @overlayColor, @overlayColor2) !important;
-    }
-  }
-}
-}
-
-.cid-rvFbUKfNQM {
-
-padding-top: (@paddingTop * 15px);
-padding-bottom: (@paddingBottom * 15px);
-background-color: @bgColor;
-.mbr-text, blockquote {
-  color: #767676;
-}
-}
-
-.cid-rvFgjs4j5L {
+.cid-qI3lntsWfo {
 @paddingTop: 4;
-@paddingBottom: 8;
-@showCopyright: false;
+@paddingBottom: 4;
+@showCopyright: true;
 @iconsCount: "6";
-@reveal: false;
+@reveal: true;
 @uname__7: "file:///C:/Users/Arth/Documents/My%20Mobirise4%20webites%202018/jays%20progect%20jet%20wash%20files//assets/images/jumbotron.jpg";
 @uname__8: false;
 @uname__9: #032d3b;
@@ -3265,6 +3208,76 @@ P {
 }
 H5 {
   color: #ffffff;
+}
+}
+
+.cid-rvEhE07G0v {
+
+padding-top: (@paddingTop * 15px);
+padding-bottom: (@paddingBottom * 15px);
+background-color: @bgColor;
+.mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: @overlayColor;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  & when (@gradOverlay) {
+    background: linear-gradient(to left, @overlayColor, @overlayColor2) !important;
+  }
+}
+.mbr-gallery-item > div:hover {
+  .mbr-gallery-title::before {
+    background: transparent !important;
+  }
+  &:before {
+    opacity: @overlayOpacity !important;
+  }
+}
+.mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+  &:before {
+    content: " ";
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    position: absolute;
+    background: @overlayColor !important;
+    opacity: @overlayOpacity;
+    -webkit-transition: 0.2s background ease-in-out;
+    transition: 0.2s background ease-in-out;
+    & when (@gradOverlay) {
+      background: linear-gradient(to left, @overlayColor, @overlayColor2) !important;
+    }
+  }
 }
 }
 .cid-qNYf7Pmuv6 {
