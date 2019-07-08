@@ -3092,10 +3092,10 @@ nav.opened .hamburger span {
 
 .cid-qI3lntsWfo {
 @paddingTop: 4;
-@paddingBottom: 7;
-@showCopyright: true;
+@paddingBottom: 8;
+@showCopyright: false;
 @iconsCount: "6";
-@reveal: true;
+@reveal: false;
 @uname__7: "file:///C:/Users/Arth/Documents/My%20Mobirise4%20webites%202018/jays%20progect%20jet%20wash%20files//assets/images/jumbotron.jpg";
 @uname__8: false;
 @uname__9: #032d3b;
