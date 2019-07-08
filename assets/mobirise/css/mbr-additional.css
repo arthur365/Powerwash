@@ -2684,13 +2684,13 @@ B {
 }
 
 .cid-rvEhDSqlQX {
-@fullWidth: true;
+@fullWidth: false;
 @paddingTop: 2;
 @paddingBottom: 2;
 @overlayColor: #4f4943;
-@gradOverlay: false;
+@gradOverlay: true;
 @overlayColor2: #45505b;
-@overlayOpacity: 0.7;
+@overlayOpacity: 0.9;
 @bgColor: #232323;
 @gallery__showBullets: false;
 @gallery__showText: true;
