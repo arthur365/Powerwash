@@ -2685,8 +2685,8 @@ B {
 
 .cid-rvEhDSqlQX {
 @fullWidth: true;
-@paddingTop: 0;
-@paddingBottom: 0;
+@paddingTop: 2;
+@paddingBottom: 2;
 @overlayColor: #4f4943;
 @gradOverlay: false;
 @overlayColor2: #45505b;
