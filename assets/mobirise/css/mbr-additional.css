@@ -2450,9 +2450,9 @@ body {
 }
 
 .cid-rvErP5acmE {
-@paddingTop: 2;
-@paddingBottom: 0;
-@showTitle: true;
+@paddingTop: 1;
+@paddingBottom: 1;
+@showTitle: false;
 @showSubtitle: true;
 @showButtons: false;
 @bgColor: #232323;
