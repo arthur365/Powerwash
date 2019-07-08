@@ -2692,7 +2692,7 @@ B {
 @overlayColor2: #45505b;
 @overlayOpacity: 0.9;
 @bgColor: #232323;
-@gallery__showBullets: false;
+@gallery__showBullets: true;
 @gallery__showText: true;
 @gallery__filter: false;
 @gallery__spacing: 1;
