@@ -2421,7 +2421,7 @@ body {
 .cid-rvEYoRglOE {
 @fullScreen: false;
 @paddingTop: 6;
-@paddingBottom: 1;
+@paddingBottom: 3;
 @showTitle: true;
 @showSubTitle: false;
 @showText: false;
@@ -2555,7 +2555,7 @@ background-color: @bgColor;
 @paddingBottom: 2;
 @showTitle: true;
 @showText: false;
-@showButtons: true;
+@showButtons: false;
 @cardsBg: #149dcc;
 @cardsAmount: "3";
 @uname__10: "../../app/themes/mobirise4/components/features3/../_images/background2.jpg";
@@ -2634,40 +2634,17 @@ p {
 }
 }
 
-.cid-qNSvEREgJv {
-@paddingTop: 1;
-@paddingBottom: 1;
-@innerWidth: 100;
-@lineLength: 100;
-@lineColor: #55b4d4;
-@bgColor: #efefef;
+.cid-rvFbUCPFyq {
+@paddingTop: 4;
+@paddingBottom: 4;
+@widthContent: 2;
+@bgColor: #ffffff;
 
 padding-top: (@paddingTop * 15px);
 padding-bottom: (@paddingBottom * 15px);
 background-color: @bgColor;
-.line {
-  background-color: @lineColor;
-  color: @lineColor;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.section-text {
-  padding: 2rem 0;
-}
-.inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .inner-container {
-    width: 100% !important;
-  }
-}
-.section-text DIV {
-  color: #000000;
-}
-.section-text B {
-  color: #073b4c;
+.mbr-text, blockquote {
+  color: #767676;
 }
 }
 
@@ -3115,7 +3092,7 @@ nav.opened .hamburger span {
 
 .cid-qI3lntsWfo {
 @paddingTop: 4;
-@paddingBottom: 4;
+@paddingBottom: 7;
 @showCopyright: true;
 @iconsCount: "6";
 @reveal: true;
@@ -3278,6 +3255,16 @@ background-color: @bgColor;
       background: linear-gradient(to left, @overlayColor, @overlayColor2) !important;
     }
   }
+}
+}
+
+.cid-rvFbUKfNQM {
+
+padding-top: (@paddingTop * 15px);
+padding-bottom: (@paddingBottom * 15px);
+background-color: @bgColor;
+.mbr-text, blockquote {
+  color: #767676;
 }
 }
 .cid-qNYf7Pmuv6 {
