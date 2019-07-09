@@ -2419,7 +2419,7 @@ body {
 @isPublish: true;
 
 .cid-rvEYoRglOE {
-@fullScreen: false;
+@fullScreen: true;
 @paddingTop: 6;
 @paddingBottom: 6;
 @showTitle: true;
