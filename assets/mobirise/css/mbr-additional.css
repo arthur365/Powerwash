@@ -2420,8 +2420,8 @@ body {
 
 .cid-rvEYoRglOE {
 @fullScreen: false;
-@paddingTop: 9;
-@paddingBottom: 9;
+@paddingTop: 6;
+@paddingBottom: 6;
 @showTitle: true;
 @showSubTitle: false;
 @showText: false;
@@ -2435,7 +2435,7 @@ body {
 @bg-parallax: true;
 @overlay: true;
 @overlayColor: #4f4943;
-@overlayOpacity: 0.3;
+@overlayOpacity: 0.6;
 
 & when not (@fullScreen) {
   padding-top: (@paddingTop * 15px);
@@ -2555,7 +2555,7 @@ background-color: @bgColor;
 @paddingBottom: 2;
 @showTitle: true;
 @showText: false;
-@showButtons: true;
+@showButtons: false;
 @cardsBg: #149dcc;
 @cardsAmount: "3";
 @uname__10: "../../app/themes/mobirise4/components/features3/../_images/background2.jpg";
