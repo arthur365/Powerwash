@@ -2419,7 +2419,7 @@ body {
 @isPublish: true;
 
 .cid-rvEYoRglOE {
-@fullScreen: true;
+@fullScreen: false;
 @paddingTop: 9;
 @paddingBottom: 9;
 @showTitle: true;
@@ -2435,7 +2435,7 @@ body {
 @bg-parallax: true;
 @overlay: true;
 @overlayColor: #4f4943;
-@overlayOpacity: 0.2;
+@overlayOpacity: 0.1;
 
 & when not (@fullScreen) {
   padding-top: (@paddingTop * 15px);
@@ -2450,8 +2450,8 @@ body {
 }
 
 .cid-rvErP5acmE {
-@paddingTop: 5;
-@paddingBottom: 7;
+@paddingTop: 3;
+@paddingBottom: 3;
 @showTitle: false;
 @showSubtitle: true;
 @showButtons: true;
