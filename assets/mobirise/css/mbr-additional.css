@@ -5090,22 +5090,22 @@ p {
 }
 
 .cid-rw2hCN0nUk {
-@paddingTop: 6;
-@paddingBottom: 6;
+@paddingTop: 2;
+@paddingBottom: 2;
 @showTitle: true;
 @showSubtitle: false;
 @showCardTitle: true;
 @showText: false;
 @showButtons: false;
-@cardsBg: #ffffff;
+@cardsBg: #edde0e;
 @cardsAmount: "3";
 @alignBtn: "1";
 @uname__11: "../../app/themes/mobirise4/components/services1/../_images/background2.jpg";
 @uname__12: true;
-@uname__13: #ffffff;
-@bg-value: #ffffff;
+@uname__13: #f9ac26;
+@bg-value: #f9ac26;
 @bg-type: "color";
-@bg-color-value: #ffffff;
+@bg-color-value: #f9ac26;
 @bg-parallax: false;
 @overlay: false;
 @overlayColor: #efefef;
