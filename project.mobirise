@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#efc500",
         "#1e1b18",
         "#3584c4",
         "#8bd7f1",
         "#000000",
         "#1a0eef",
-        "#251e9f",
-        "#5851de"
+        "#251e9f"
       ]
     },
     "versionFirst": "4.5.2",
@@ -4311,7 +4311,7 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#efc500"
             }
           },
           "_name": "services1",
