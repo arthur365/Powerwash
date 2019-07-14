@@ -4979,7 +4979,7 @@ background-color: @bgColor;
 }
 .cid-rw2pf47x6O .card-wrapper {
   height: 100%;
-  background: #b9c7cc;
+  background: #1e1b18;
 }
 @media (max-width: 767px) {
   .cid-rw2pf47x6O .card:not(.last-child) {
@@ -4997,6 +4997,9 @@ background-color: @bgColor;
 }
 .cid-rw2pf47x6O B {
   color: #efc500;
+}
+.cid-rw2pf47x6O DIV {
+  color: #f7ed4a;
 }
 .cid-rvK8lZgum2 {
   padding-top: 45px;
