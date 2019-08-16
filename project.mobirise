@@ -550,7 +550,7 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#ffffff"
+              "color": "#1a0eef"
             }
           },
           "_name": "header1",
