@@ -1840,12 +1840,12 @@ body {
 @showSubTitle: false;
 @showText: false;
 @showButtons: true;
-@uname__12: "file:///C:/Users/Arth/Documents/My%20Mobirise4%20webites%202018/jays%20progect%20jet%20wash%20files//assets/images/mbr-1858x1920.jpg";
+@uname__12: "file:///C:/Users/Arth/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-08-21_210750/assets/images/mbr-1858x1920.jpg";
 @uname__13: true;
-@uname__14: #073b4c;
-@bg-value: #073b4c;
+@uname__14: #3584c4;
+@bg-value: #3584c4;
 @bg-type: "color";
-@bg-color-value: #073b4c;
+@bg-color-value: #3584c4;
 @bg-parallax: false;
 @overlay: true;
 @overlayColor: #4f4943;
@@ -1862,7 +1862,7 @@ body {
   background-image: url(../../../@bg-value);
 }
 H1 {
-  color: #1a0eef;
+  color: #232323;
 }
 }
 
