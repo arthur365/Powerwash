@@ -1833,9 +1833,9 @@ body {
 @isPublish: true;
 
 .cid-rvEYoRglOE {
-@fullScreen: false;
+@fullScreen: true;
 @paddingTop: 7;
-@paddingBottom: 1;
+@paddingBottom: 9;
 @showTitle: true;
 @showSubTitle: false;
 @showText: false;
